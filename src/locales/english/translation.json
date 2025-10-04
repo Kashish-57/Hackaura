@@ -1,0 +1,464 @@
+{
+  "header": {
+    "tagline": "Come, Feel, Embrace and Grow!",
+    "nav_lovydubby": "LovyDubby",
+    "nav_emotionbot": "EmotionBot",
+    "nav_journal": "Journal",
+    "nav_games": "Games",
+    "settings": "Settings",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "title": "MannSafar",
+    "subtitle": "Discover personalized tools and insights to support your emotional well-being",
+    "cta": "Begin Your Journey"
+  },
+  "features": {
+    "lovydubby": {
+      "title": "LovyDubby",
+      "description": "Real 3D model of a person integrated with human brain to respond as per the users' queries to provide realistic presence and natural interaction.",
+      "cta": "Call LovyDubby"
+    },
+    "aiCompanion": {
+      "title": "AI Companion",
+      "description": "Chat with your empathetic AI companion anytime. Get support, guidance, and a listening ear whenever you need it most.",
+      "cta": "Start Conversation"
+    },
+    "journal": {
+      "title": "Personal Journal",
+      "description": "Express your thoughts, feelings, and experiences in a private, secure space. Track your emotional patterns and personal growth over time.",
+      "cta": "Write Entry"
+    },
+    "games": {
+      "title": "Emotion Games",
+      "description": "Engage in fun and therapeutic games designed to help you identify, understand, and manage your emotions in a playful way.",
+      "cta": "Play Now"
+    },
+    "progress": {
+      "title": "Progress Tracker",
+      "description": "Monitor your wellness journey with detailed analytics, mood trends, and personalized insights to help you understand your growth.",
+      "cta": "View Progress"
+    }
+  },
+  "inspiration": {
+    "title": "Daily Inspiration",
+    "quotes": [
+      { "text": "The greatest revolution of our generation is the discovery that human beings, by changing the inner attitudes of their minds, can change the outer aspects of their lives.", "author": "William James" },
+      { "text": "Happiness is not something ready-made. It comes from your own actions.", "author": "Dalai Lama" },
+      { "text": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.", "author": "Benjamin Franklin" },
+      { "text": "Turn your wounds into wisdom.", "author": "Oprah Winfrey" },
+      { "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.", "author": "Ralph Waldo Emerson" },
+      { "text": "Out of difficulties grow miracles.", "author": "Jean de La Bruyère" },
+      { "text": "Every day may not be good, but there’s something good in every day.", "author": "Alice Morse Earle" }
+    ]
+  },
+  "about": {
+    "title": "About MannSafar",
+    "subtitle": "Leading the future of mental wellness with AI-powered tools and compassionate care",
+    "users_title": "10M+ Users",
+    "users_desc": "Trusted by millions worldwide for their mental wellness journey",
+    "award_title": "Award Winning",
+    "award_desc": "Recognized by leading healthcare organizations for innovation",
+    "secure_title": "Secure & Private",
+    "secure_desc": "Your data is protected with enterprise-grade security and privacy",
+    "mission_title": "Our Mission",
+    "mission_desc": "At MannSafar, we believe everyone deserves access to quality mental health support. Our AI-powered platform combines cutting-edge technology with evidence-based therapeutic approaches to provide personalized wellness solutions that fit into your daily life.",
+    "mission_point1": "24/7 AI companion support",
+    "mission_point2": "Evidence-based wellness assessments",
+    "mission_point3": "Personalized progress tracking",
+    "contact_title": "Contact Us"
+  },
+  "beginJourney": {
+    "backToDashboard": "Back to Dashboard",
+    "pageTitle": "Begin Your Journey",
+    "subtitle": "Choose how you’d like to share your feelings today.",
+    "faceDetectionTitle": "Face Detection",
+    "faceDetectionCta": "Use Camera",
+    "voiceDetectionTitle": "Voice Detection",
+    "voiceDetectionCta": "Use Microphone",
+    "manualInputTitle": "Manual Input",
+    "manualInputCta": "Choose Emotion"
+  },
+  "moodInput": {
+    "back": "Back",
+    "title": "How are you feeling right now?",
+    "cta": "Start Conversation",
+    "moods": {
+      "happy": "Happy",
+      "lonely": "Lonely",
+      "angry": "Angry",
+      "carefree": "Carefree",
+      "demotivated": "Demotivated",
+      "tensed": "Tensed",
+      "curious": "Curious"
+    }
+  },
+  "lovyDubbyPage": {
+    "title": "LovyDubby",
+    "excitement": "Are you as super excited as we are?",
+    "description": "Something incredible is taking shape behind the scenes — a lifelike 3D model with smooth, natural interaction. Get ready to meet LovyDubby soon… stay tuned!",
+    "goBack": "Go Back"
+  },
+  "settingsPage": {
+    "backToDashboard": "Back to Dashboard",
+    "title": "Settings",
+    "notifications": {
+      "title": "Notifications",
+      "description": "Control how and when you receive notifications",
+      "dailyReminders": "Daily Wellness Reminders",
+      "dailyRemindersDesc": "Get daily prompts for journaling and mood tracking",
+      "weeklyReports": "Weekly Progress Reports",
+      "weeklyReportsDesc": "Receive weekly insights about your wellness journey",
+      "moodAlerts": "Mood Alert Notifications",
+      "moodAlertsDesc": "Get notified when patterns in your mood are detected",
+      "journalPrompts": "Journal Writing Prompts",
+      "journalPromptsDesc": "Receive inspiring prompts for your journal entries"
+    },
+    "appearance": {
+      "title": "Appearance & Preferences",
+      "description": "Customize the look and feel of your app",
+      "theme": "Theme",
+      "themeDesc": "Choose your preferred color scheme",
+      "themeOptions": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      },
+      "language": "Language",
+      "languageDesc": "Select your preferred language",
+      "timeFormat": "Time Format",
+      "timeFormatDesc": "Choose how time is displayed",
+      "timeFormatOptions": {
+        "twelveHour": "12 Hour",
+        "twentyFourHour": "24 Hour"
+      }
+    },
+    "privacy": {
+      "title": "Privacy & Data",
+      "description": "Control your data and privacy settings",
+      "dataSharing": "Data Sharing for Research",
+      "dataSharingDesc": "Help improve wellness tools with anonymized data",
+      "analytics": "Analytics & Performance",
+      "analyticsDesc": "Help us improve the app experience",
+      "publicProfile": "Public Profile",
+      "publicProfileDesc": "Make your wellness achievements visible to others"
+    },
+    "dataManagement": {
+      "title": "Data Management",
+      "description": "Export, import, or delete your wellness data",
+      "exportData": "Export Your Data",
+      "exportDataDesc": "Download all your wellness data in JSON format",
+      "exportButton": "Export",
+      "storageUsage": "Storage Usage",
+      "storageUsageDesc": "Current data usage and limits",
+      "storageAvailable": "available"
+    },
+    "accountActions": {
+      "title": "Account Actions",
+      "description": "Manage your account settings",
+      "signOut": "Sign Out",
+      "signOutDesc": "Sign out of your current session",
+      "deleteAccount": "Delete Account",
+      "deleteAccountDesc": "Permanently delete your account and all data"
+    },
+    "appInfo": {
+      "title": "App Information",
+      "version": "Version",
+      "lastUpdated": "Last Updated",
+      "platform": "Platform"
+    },
+    "toasts": {
+      "signOutSuccessTitle": "Signed out successfully",
+      "signOutSuccessDesc": "Come back soon for your wellness journey!",
+      "signOutErrorTitle": "Error signing out",
+      "signOutErrorDesc": "Please try again",
+      "exportInitTitle": "Data export initiated",
+      "exportInitDesc": "You'll receive an email with your data within 24 hours.",
+      "deleteAccountTitle": "Account deletion",
+      "deleteAccountDesc": "This feature is not available yet. Contact support for assistance."
+    }
+  },
+  "profilePage": {
+    "backToDashboard": "Back to Dashboard",
+    "title": "Profile Settings",
+    "cardTitle": "Personal Information",
+    "cardDescription": "Update your profile details and preferences",
+    "uploading": "Uploading...",
+    "changeAvatar": "Change Avatar",
+    "avatarRequirements": "JPG, PNG or GIF. Max size 5MB.",
+    "displayName": "Display Name",
+    "displayNamePlaceholder": "Your display name",
+    "email": "Email",
+    "emailDescription": "Email cannot be changed here. Contact support if needed.",
+    "phone": "Phone",
+    "phonePlaceholder": "Your phone number",
+    "location": "Location",
+    "locationPlaceholder": "Your location",
+    "bio": "Bio",
+    "bioPlaceholder": "Tell us about yourself...",
+    "saving": "Saving...",
+    "saveChanges": "Save Changes",
+    "toasts": {
+      "errorTitle": "Error",
+      "loadError": "Failed to load profile",
+      "successTitle": "Success",
+      "saveSuccess": "Profile updated successfully",
+      "saveError": "Failed to save profile",
+      "uploadSuccess": "Avatar uploaded successfully",
+      "uploadError": "Failed to upload avatar"
+    }
+  },
+  "moodAssessment": {
+    "static": {
+      "back": "Back",
+      "title": "Your Assessment",
+      "youSelected": "You selected:",
+      "invalidEmotion": "Invalid emotion selected. Please go back.",
+      "goBack": "Go Back",
+      "next": "Next",
+      "submit": "Submit Assessment"
+    },
+    "toasts": {
+      "selectOption": "Please select an option to continue.",
+      "mustBeLoggedIn": "You must be logged in to save your assessment.",
+      "saveSuccess": "Your assessment has been saved!",
+      "saveError": "Failed to save assessment. Please try again."
+    },
+    "questions": {
+      "Happy": [
+        { "text": "Main reason for happiness?", "options": ["Spending time with loved ones", "Achieving a goal", "Enjoying hobby", "Something unexpected", "Others"] },
+        { "text": "Sense of accomplishment impact?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Social connections impact?", "options": ["No impact", "A little", "Moderately", "Very much"] },
+        { "text": "Did you feel progress today?", "options": ["Not at all", "A little", "Moderately", "Very much"] }
+      ],
+      "Lonely": [
+        { "text": "Main reason for loneliness?", "options": ["Lack of conversations", "Distance from loved ones", "Feeling misunderstood", "Not able to share feelings"] },
+        { "text": "Gap between you and others?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Lack of social interaction impact?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Strong desire for connection?", "options": ["Not at all", "A little", "Moderately", "Very much"] }
+      ],
+      "Angry": [
+        { "text": "Main reason for anger?", "options": ["Feeling disrespected", "Unjust situation", "Specific person", "Feeling powerless"] },
+        { "text": "Boundaries crossed?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Frustration contribution?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Loss of control?", "options": ["Not at all", "A little", "Moderately", "Very much"] }
+      ],
+      "Carefree": [
+        { "text": "Main reason for carefree feeling?", "options": ["Positive outcome", "Feeling relaxed", "Spontaneous day", "Feeling in control"] },
+        { "text": "Absence of stress contribution?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Freedom from obligations?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Going with the flow?", "options": ["Not at all", "A little", "Moderately", "Completely"] }
+      ],
+      "Tensed": [
+        { "text": "Main reason for tension?", "options": ["Work pressure", "Future worry", "Overthinking", "Physical discomfort"] },
+        { "text": "Stress from task/deadline?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Racing thoughts?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Uncertainty about future?", "options": ["Not at all", "A little", "Moderately", "Very much"] }
+      ],
+      "Curious": [
+        { "text": "Main reason for curiosity?", "options": ["New idea", "Discovering hobby", "Learning", "Intriguing person"] },
+        { "text": "Desire for knowledge?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Mind engaged/stimulated?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Inspired to ask questions?", "options": ["No", "Few questions", "Many questions", "Constant stream"] }
+      ],
+      "Demotivated": [
+        { "text": "Main reason for demotivation?", "options": ["Lack of progress", "Overwhelmed", "Boredom", "Negative feedback"] },
+        { "text": "Sense of lack of purpose?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Disconnected from goals?", "options": ["Not at all", "A little", "Moderately", "Very much"] },
+        { "text": "Energy to start tasks?", "options": ["Not at all", "A little", "Moderately", "Very much"] }
+      ]
+    }
+  },
+  "progressTracker": {
+    "backToDashboard": "Back to Dashboard",
+    "title": "Progress Tracker",
+    "subtitle": "Monitor your wellness journey with detailed analytics and insights.",
+    "loading": "Loading...",
+    "otherReason": "Other",
+    "moodSwing": {
+      "title": "Sudden Mood Swing Detected",
+      "description": "Your recent mood entries show a significant change. Here are some actions you can take:",
+      "actionPsychiatrist": "Schedule with a Psychiatrist",
+      "actionLovyDubby": "Call LovyDubby",
+      "actionGames": "Play Emotion Games"
+    },
+    "stats": {
+      "moodEntries": "Mood Entries",
+      "totalAssessments": "Total assessments",
+      "streak": "Streak",
+      "days": "days",
+      "dailyCheckins": "Daily check-ins",
+      "goalsMet": "Goals Met",
+      "thisMonth": "This month"
+    },
+    "charts": {
+      "dailyTrendTitle": "Daily Mood Trend",
+      "dailyTrendDescription": "Your mood ratings for all entries",
+      "dailyTrendLabel": "Today's Mood Score",
+      "weeklyTrendTitle": "Weekly Most Selected Mood Trend",
+      "weeklyTrendDescription": "Most frequent mood for each of the last 7 days",
+      "weeklyTrendLabel": "Most Selected Mood",
+      "weeklyTooltipLabel": "Mood:",
+      "reasonsTitle": "Reasons Breakdown",
+      "reasonsDescription": "Why you've felt a certain way recently.",
+      "heatmapTitle": "Monthly Mood Heatmap",
+      "heatmapDescription": "Your primary emotion for each day.",
+      "weekdays": {
+        "sun": "Sun", "mon": "Mon", "tue": "Tue", "wed": "Wed", "thu": "Thu", "fri": "Fri", "sat": "Sat"
+      }
+    },
+    "activities": {
+      "title": "Recent Activities",
+      "description": "Your wellness activities this week",
+      "journalEntries": "Journal Entries",
+      "aiConversations": "AI Conversations",
+      "moodCheckins": "Mood Check-ins"
+    },
+    "toasts": {
+      "comingSoonTitle": "Feature coming soon!",
+      "comingSoonDescription": "We're working on it. Stay tuned for updates."
+    }
+  },
+  "aiCompanion": {
+    "title": "AI Companion",
+    "backToDashboard": "Back to Dashboard",
+    "pageDescription": "Your empathetic AI companion is here to listen and provide support.",
+    "chat": {
+      "title": "Conversation",
+      "description": "Share your thoughts and feelings in a safe space",
+      "initialMessage": "Hello! I'm here to listen and support you. How are you feeling today?"
+    }
+  },
+  "personalJournal": {
+    "title": "Personal Journal",
+    "backToDashboard": "Back to Dashboard",
+    "entries": {
+      "title": "Your Entries",
+      "newEntry": "New Entry",
+      "noEntries": "No journal entries yet. Start writing your first entry!",
+      "mood": "Mood"
+    },
+    "editor": {
+      "title": "Write Your Thoughts",
+      "description": "Express yourself in a private, secure space",
+      "moodLabel": "Mood",
+      "moodPlaceholder": "Select your mood",
+      "titlePlaceholder": "Entry title...",
+      "contentPlaceholder": "How are you feeling today? What's on your mind?",
+      "characterCount": "characters",
+      "saving": "Saving...",
+      "saveEntry": "Save Entry"
+    },
+    "moods": {
+      "happy": "Happy",
+      "lonely": "Lonely",
+      "demotivated": "Demotivated",
+      "angry": "Angry",
+      "carefree": "Carefree",
+      "tensed": "Tensed",
+      "curious": "Curious"
+    }
+  },
+  "emotionGames": {
+    "title": "🎮 Pick Your Mood Game",
+    "backToDashboard": "Back to Dashboard",
+    "games": {
+      "happy": {
+        "name": "Happy 🎈",
+        "description": "Pop balloons & celebrate your joy!",
+        "title": "Balloon Pop 🎈",
+        "instructions": "Tap balloons to pop them 🎉 Every pop adds to your score and is saved in your progress.",
+        "backButton": "Back"
+      },
+      "sad": {
+        "name": "Sad ☔",
+        "description": "Catch raindrops and brighten the sky.",
+        "backButton": "Back",
+        "title": "Raindrop Catch ☔",
+        "scoreLabel": "Score: {{score}}",
+        "instructions": "Move the bucket with ⬅️ ➡️ keys to catch the raindrops. Missed drops: {{missed}}/{{DROP_LIMIT}}. Catch them to lift your mood and increase your score 🌈."
+      },
+      "demotivated": {
+        "name": "Demotivated 🪜",
+        "description": "Climb steps and get little wins.",
+        "backButton": "Back",
+        "title": "Step Climber 🪜",
+        "stepsLabel": "Steps: {{count}}",
+        "stepIndicator": "Step {{count}}",
+        "slipMessage": "Oops! Slipped back ⬇️",
+        "instructions": "Press SPACE to climb each step. If timing is off, you may slip! Reach higher and see motivational messages appear.",
+        "motivationalMessages": [
+          "Keep going!",
+          "You are stronger than you think!",
+          "Every step counts!",
+          "Almost there!",
+          "Believe in yourself!"
+        ]
+      },
+      "angry": {
+        "name": "Angry 💥",
+        "description": "Smash bubbles to release the fire.",
+        "backButton": "Back",
+        "title": "Bubble Smash & Breathe 💥",
+        "scoreLabel": "Smashed: {{smashed}} | Calm Points: {{calm}}",
+        "instructions": "Smash bubbles rhythmically and earn calm points. Every so often, take a break to breathe deeply and calm your mind.",
+        "breathingModal": {
+          "title": "Breathing Break",
+          "instructions": "Take a deep breath in... and out... (Repeat 5 times)",
+          "countLabel": "Breath count: {{count}} / 5",
+          "skipButton": "Skip"
+        }
+      },
+      "carefree": {
+        "name": "Carefree ☁️",
+        "description": "Paint the clouds, relax & flow.",
+        "backButton": "Back",
+        "title": "Cloud Painter ☁️🎨",
+        "instructions": "Drag and paint clouds across the sky. Colors change as you paint and there’s no limit – relax and enjoy! ☁️✨"
+      },
+      "tensed": {
+        "name": "Tensed 🌸",
+        "description": "Follow the breathing circle & calm down.",
+        "backButton": "Back",
+        "title": "Breathing Circle 🌸",
+        "cyclesLabel": "Cycles: {{count}}",
+        "inhale": "🌬️ Inhale...",
+        "exhale": "😮‍💨 Exhale...",
+        "instructions": "Follow the circle’s rhythm. Inhale as it grows, exhale as it shrinks. Each full cycle calms your mind and adds to your progress ✨."
+      },
+      "curious": {
+        "name": "Curious ✨",
+        "description": "Explore stars & learn new facts.",
+        "backButton": "Back",
+        "title": "Knowledge Explorer ✨",
+        "starTooltip": "Click to discover a fact",
+        "congratulations": "Congratulations 🎉",
+        "congratsMessage": "On learning so much today! Click to return to dashboard.",
+        "instructions": "Click on any star to reveal interesting facts. Each discovery expands your knowledge and fills your starry sky! 🌌",
+        "facts": {
+          "fact_0": "Bananas are berries 🍌",
+          "fact_1": "Sharks existed before trees 🌊🌳",
+          "fact_2": "Octopuses have three hearts 🐙",
+          "fact_3": "Your stomach gets a new lining every 3–4 days 🫀",
+          "fact_4": "Butterflies taste with their feet 🦋",
+          "fact_5": "Sloths can hold their breath longer than dolphins 🦥",
+          "fact_6": "A day on Venus is longer than a year on Venus 🌌",
+          "fact_7": "Wombat poop is cube-shaped 🟦",
+          "fact_8": "There are more stars in space than grains of sand on Earth ✨",
+          "fact_9": "Koalas have fingerprints almost identical to humans 🐨",
+          "fact_10": "Water can boil and freeze at the same time 🌡️",
+          "fact_11": "Sea otters hold hands while they sleep 🦦",
+          "fact_12": "Banana plants are herbs, not trees 🌱",
+          "fact_13": "The heart of a blue whale is the size of a car 🚙",
+          "fact_14": "Ants don’t have lungs 🐜",
+          "fact_15": "The Eiffel Tower grows taller in summer ☀️",
+          "fact_16": "A group of flamingos is called a flamboyance 🦩",
+          "fact_17": "Your bones are stronger than steel 🦴",
+          "fact_18": "Some turtles can breathe through their butts 🐢",
+          "fact_19": "Cows have best friends and get stressed when separated 🐄"
+        }
+      }
+    }
+  }
+  
+}
